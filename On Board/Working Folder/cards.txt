@@ -1,0 +1,96 @@
+Each survivor receives 3 cards - 1 passive card and 1 active(usable) cards.
+
+ToDo Chest, traps, engines
+
+1.Survivors
+
+-Passives
+Self Care
+	Unlocks the ability to heal yourself without a healing item at 30%/40%/50% the normal healing speed.
+
+	>If you are not crippled you cannot use this passive. You can heal yourself without a {First Aid Kit}. This passive card has a cooldown of 10 turns.
+
+Leader
+	Receive an incremental speed bonus to repair, healing and sabotage actions when other survivors are within an 8 meter range.
+	You're able to organize a team to cooperate more efficiently. Increases the other survivors' repair, healing and sabotage speed by 3%/6%/9% 
+	when they are within an 8 meter range from you.
+
+	>When repairing/healing any player in a 2 space radius around you doubles the lower number of the thrown pair of dice. 
+	>If it's a double both dice get doubled.
+Streetwise
+	Long nights out has taught you to do a lot with what you've got. Reduce consumption rate of item charge.
+	
+	>You can use your active cards one more time before they are consumed.
+Flashlight 
+	This little flashlight has enough power to BLIND (not stun) the killer for a few seconds; use it by holding right click and aiming towards the face of the killer. If a 	survivor blinds a killer carrying a fellow survivor, 	the killer will lose his grasp on the victim, allowing the survivor to escape. The batteries last only 5 seconds 	without add-ons. Also, with the flashlight you can stun the Wraith for 5 seconds if he is in the invisibility state and you light any part of his body.
+
+	>Reveals the surrounding area in a radius of one space around you or you can use this to stun the killer/hunter for one turn. This ability has a cooldown of 10 	turns.
+
+-Actives
+
+Sprint Burst
+	When starting to run, break into a sprint at 150% your normal running speed for a maximum of 3 seconds. 
+	A recuperation of 60/50/40 seconds is necessary before being able to use sprint burst again.
+	
+	>You can use this card to double the number of the dices. This card can only used before you throw the dices. Consumed upon use.
+
+First Aid Kit
+	>Heal yourself (or another survivor) from a cripple or immobilization. Consumed upon use.
+
+Camping First Aid Kit
+	>Heal yourself (or another survivor) from a cripple or immobilization. Consumed after two uses.
+
+A Piece Of A Map
+	A piece of ragged cloth, almost unreadable. It will show you the location of an engine when you start the match, and will keep track of every other engine that 		you discover. To show them up (to every survivor) hold right click. It can be improved via addons to also keep track of the killer belongings.
+
+	>Reveals a 7 space area around you. Consumed upon use.
+
+Toolbox
+
+	All bits and pieces needed to fix any wreck. Hold right click near an engine to improve the speed at which the engine is fixed. It can also be used to disarm the 		sacrificial hooks and traps.
+
+	>When repairing/sabotaging any player in a 2 space radius around you doubles the lower number of the thrown pair of dice. 
+	>Consumed upon use.
+
+Campfire Essentials
+
+	>Create a campfire that reveals a 3 space area around you. Also heals players in a one space area around it. Has a duration of 3 turns. Consumed upon use.
+
+Barricade
+
+	>You can create a barricade* on your current space. Consumed after two uses.
+
+Refreshing Drink
+	
+	>By drinking this you reset all your cooldowns.
+
+2. Killer
+Bear Traps
+
+	>You can place bear traps 1 space around you upto to the number of players plus one more. Survivors who get caught have to roll 8 or more to escape. You can pick up traps from the map and place them again.
+
+Chainsaw
+
+	>You can activate your chainsaw for a duration of 3 turns in which if you hit a survivor they are instantly immobilised. This ability's cooldown is 10 turns and starts counting down at the end if its duration.
+
+//Blink
+//
+//	>You can teleport upto 3 times with a range of 3 spaces. You are stunned at the end.
+
+Sledgehammer
+
+>You can instantly break barricades upto 2 times per turn without being forced to wait. This ability has a cooldown of 3 turns.
+
+
+
+*Crippling involves the killer hitting a survivor once. Being crippled allows you to throw only one of the dice.
+
+*Barricades cannot be traversed by the killer. They can be destroyed by the killer in exchange for the rest of his turn.
+
+*Healing involves a player receiving the dice back after he has been crippled.
+
+
+
+
+
+
